@@ -8,6 +8,17 @@ function show_modal() {
     else
         modal.style.display = "none";
 }
+function show_zag() {
+    var modal = document.getElementById('zag');
+
+    if (window.getComputedStyle (modal).display == "grid")
+    {
+        modal.style.display = "none";
+    }
+    else
+        modal.style.display = "grid";
+
+}
 
 function show_modal1_1_1() {
     var modal = document.getElementById('myModal1_1_1');
