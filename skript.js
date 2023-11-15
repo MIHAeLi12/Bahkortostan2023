@@ -8,17 +8,6 @@ function show_modal() {
     else
         modal.style.display = "none";
 }
-function show_zag() {
-    var modal = document.getElementById('zag');
-
-    if (window.getComputedStyle (modal).display == "grid")
-    {
-        modal.style.display = "none";
-    }
-    else
-        modal.style.display = "grid";
-
-}
 
 function show_modal1_1_1() {
     var modal = document.getElementById('myModal1_1_1');
@@ -93,7 +82,16 @@ function show_modal1_1_7() {
         modal.style.display = "none";
 }
 
+function show_cont() {
+    var modal = document.getElementById('cont');
 
+    if (window.getComputedStyle (modal).display == "grid")
+    {
+        modal.style.display = "none";
+    }
+    else
+        modal.style.display = "grid";
+}
 
 
 function show_modal2() {
@@ -331,6 +329,77 @@ function show_modal6() {
     }
     else
         modal.style.display = "none";
+
+  
+}
+function show_zag() {
+    var modal = document.getElementById('zag');
+
+    if (window.getComputedStyle (modal).display == "grid")
+    {
+        modal.style.display = "none";
+    }
+    else
+        modal.style.display = "grid";
+
+}
+function show_fots(){
+    var modal = document.getElementById('fots');
+
+    if (window.getComputedStyle (modal).display == "block")
+    {
+        modal.style.display = "none";
+    }
+    else
+        modal.style.display = "block";
+
+}
+function text_foto(){
+    var modal = document.getElementById('text_foto');
+
+    if (window.getComputedStyle (modal).display == "flex")
+    {
+        modal.style.display = "none";
+    }
+    else
+        modal.style.display = "flex";
+}
+function show_fots2() {
+    var modal = document.getElementById('fots1');
+
+    if (window.getComputedStyle (modal).display == "grid")
+    {
+        modal.style.display = "none";
+    }
+    else
+        modal.style.display = "grid";
+
+}
+
+
+function button_clic(elem){
+    if (elem.value == 'Больше фотографий...')
+    {
+         elem.value = 'Меньше фотографий...'
+    }
+    else
+        elem.value = 'Больше фотографий...'
+}
+
+function foto() {
+    var modal = document.getElementById('fots2');
+  
+
+    if (window.getComputedStyle (modal).display == "grid")
+    {
+        modal.style.display = "none";
+      
+    }
+    else
+        modal.style.display = "grid";
+      
+
+
 }
 
 function show_modal6_1() {
