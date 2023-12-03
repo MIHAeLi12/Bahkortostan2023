@@ -16,7 +16,7 @@ ____
  style.css       | style file
  skript.jt       | file with the main events of the site
  index.html      | the main skeleton of the site
- <li> 
+ 
 
 
 
