@@ -7,8 +7,8 @@ ____
 > The site is intended for: tourists and guides
  ____
 ## What was used when creating the website?
->Markup language: HTML5
->Style language: CSS
->Programming language: Java Skript
+###Markup language: HTML5
+###Style language: CSS
+###Programming language: Java Skript
 
 
