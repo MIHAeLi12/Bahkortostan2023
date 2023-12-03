@@ -5,11 +5,12 @@ ____
 > The website is designed to explore nature, interesting places and various indicators of the republic. :deciduous_tree: :earth_asia: :page_with_curl:
 ## What is the website for?
 > The site is intended for: tourists and guides
- ____
+____
 ## What was used when creating the website?
 ### Markup language: HTML5
 ### Style language: CSS
 ### Programming language: Java Skript
+____
 ## Project files
    file name     | The contents of the file
  ----------------|----------------------
