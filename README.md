@@ -7,9 +7,9 @@ ____
 > The site is intended for: tourists and guides
 ____
 ## What was used when creating the website?
-### Markup language: HTML5
-### Style language: CSS
-### Programming language: Java Skript
+### Markup language: HTML5 !(https://avatars.mds.yandex.net/i?id=2951a074ac9006ebedceb4b987ab2c03f3a0241e-5669034-images-thumbs&n=13)
+### Style language: CSS !(https://avatars.mds.yandex.net/i?id=38963e15e334091cc843bbc6e0fef9d9051bc57c-8497235-images-thumbs&n=13)
+### Programming language: Java Skript !(https://avatars.mds.yandex.net/i?id=db0607fc2e5f4c53dce85879e2e5b56b13bd7d0b-10649741-images-thumbs&n=13)
 ____
 ## Project files
    file name     | The contents of the file
