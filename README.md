@@ -6,6 +6,8 @@ ____
 ## What is the website for?
 > The site is intended for: tourists and guides
 ____
+>When creating the site, I used the technology of modal windows, the main page is completely made of them.
+____
 ## What was used when creating the website?
 ### Markup language: HTML5 
 ### Style language: CSS 
@@ -16,8 +18,9 @@ ____
  ----------------|----------------------
  style.css       | style file
  skript.jt       | file with the main events of the site
- index.html      | the main skeleton of the site
- 
+ index2.html     | the main skeleton of the site
+ index.html      | title page
+
 
 
 
