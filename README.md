@@ -6,7 +6,7 @@ ____
 ## What is the website for?
 > The site is intended for: tourists and guides
 ____
->When creating the site, I used the technology of modal windows, the main page is completely made of them.
+When creating the site, I used the technology of modal windows, the main page is completely made of them.
 ____
 ## What was used when creating the website?
 ### Markup language: HTML5 
