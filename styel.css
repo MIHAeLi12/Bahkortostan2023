@@ -13,6 +13,13 @@ a{
     background-size: 200% 200%;
     animation: gradient 10s ease infinite;
 }
+.icon_fon{
+    background:url(./vid.png);
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 
 @keyframes gradient {
     0% {
