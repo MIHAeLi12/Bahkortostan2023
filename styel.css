@@ -7,18 +7,14 @@ a{
     font-family:  'Arial Narrow';
     scrollbar-color: #838181;
     scrollbar-width: thin;
+    padding: 0;
+    margin: 0;
+    border: 0;
 }
 .wrapper {
     background: linear-gradient(45deg, rgba(148, 174, 196, 0.938), rgba(179, 199, 219, 0.904));
     background-size: 200% 200%;
     animation: gradient 10s ease infinite;
-}
-.icon_fon{
-    background:url(./vid.png);
-    height: 90vh;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
 }
 
 @keyframes gradient {
@@ -295,6 +291,14 @@ h3{
         display: none;
     }
 }
+.icon_fon{
+    background:url(./ime/vid.png);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 
 .foto1{
     display: grid;
@@ -375,9 +379,7 @@ h3{
     animation-name:animatetop;
     animation-duration: 1.3s;
     font-weight:bolder;
-  
     position: relative;
-
     margin:0;
     width: 100%;
     box-shadow: 0 5px 9px 0 rgba(0,0,0,0,3);
@@ -450,8 +452,6 @@ h3{
     border:1px solid black;
     transition: .1s;
     right: 10px;
-    margin-top: 10px;
-   
 }
 
 
@@ -466,6 +466,64 @@ h3{
     border-radius: 25%;
     transition: .1s;
 
+}
+
+.fon1{
+    background: url(./ime/shihan.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+}
+.fon2{
+    background: url(./ime/ligo18.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+}
+.fon3{
+    background: url(./ime/logo42.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+}
+.fon4{
+    background: url(./ime/Ozero.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+}
+.fon5{
+    background: url(./ime/logo12.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+}
+.fon6{
+    background: url(./ime/Ufa.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+}
+.fon7{
+    background: url(./ime/ufa2.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    width: 200%;
 }
 
 .close:hover{

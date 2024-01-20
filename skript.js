@@ -84,7 +84,6 @@ function show_modal1_1_7() {
 
 function show_cont() {
     var modal = document.getElementById('cont');
-
     if (window.getComputedStyle (modal).display == "block")
     {
         modal.style.display = "none";
@@ -92,7 +91,6 @@ function show_cont() {
     else
         modal.style.display = "block";
 }
-
 
 function show_modal2() {
     var modal = document.getElementById('myModal2');
@@ -343,27 +341,7 @@ function show_zag() {
         modal.style.display = "grid";
 
 }
-function show_fots(){
-    var modal = document.getElementById('fots');
 
-    if (window.getComputedStyle (modal).display == "block")
-    {
-        modal.style.display = "none";
-    }
-    else
-        modal.style.display = "block";
-
-}
-function text_foto(){
-    var modal = document.getElementById('text_foto');
-
-    if (window.getComputedStyle (modal).display == "flex")
-    {
-        modal.style.display = "none";
-    }
-    else
-        modal.style.display = "flex";
-}
 function show_fots2() {
     var modal = document.getElementById('fots1');
 
